@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "DINNextLTArabic-Medium";
+  src: url("./fonts/DINNextLTArabic-Medium-2.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/DINNextLTArabic-Medium-2.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/DINNextLTArabic-Medium-2.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/DINNextLTArabic-Medium-2.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/DINNextLTArabic-Medium-2.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/DINNextLTArabic-Medium-2.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/DINNextLTArabic-Medium-2.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.773" height="20.774" viewBox="0 0 20.773 20.774">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_485" data-name="Clip 485" d="M0,10.387A10.387,10.387,0,0,0,10.386,20.774h0A10.387,10.387,0,0,0,20.773,10.387h0A10.387,10.387,0,0,0,10.386,0h0A10.387,10.387,0,0,0,0,10.387Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="jo" clip-path="url(#clip-path)">
+    <path id="Fill_484" data-name="Fill 484" d="M0,7.282H35.391V0H0Z" transform="translate(-1.425 -0.735)"/>
+    <path id="Fill_486" data-name="Fill 486" d="M0,7.284H35.391V0H0Z" transform="translate(-1.425 6.548)" fill="#fff"/>
+    <path id="Fill_487" data-name="Fill 487" d="M0,7.282H35.391V0H0Z" transform="translate(-1.425 13.831)" fill="#00793d"/>
+    <path id="Fill_488" data-name="Fill 488" d="M0,0V21.9L17.7,10.95Z" transform="translate(-1.425 -0.735)" fill="#cd1225"/>
+    <path id="Fill_489" data-name="Fill 489" d="M1.576.944,2.382.589l-.454.793.732.465L1.8,1.93l.112.918-.6-.651-.6.651.126-.9L0,1.834l.718-.48L.252.6l.795.315L1.336,0Z" transform="translate(2.878 8.738)" fill="#fff"/>
+  </g>
+</svg>

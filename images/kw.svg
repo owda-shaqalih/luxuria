@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.774" height="20.774" viewBox="0 0 20.774 20.774">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_492" data-name="Clip 492" d="M0,10.387A10.388,10.388,0,0,0,10.388,20.774h0A10.387,10.387,0,0,0,20.774,10.387h0A10.387,10.387,0,0,0,10.388,0h0A10.388,10.388,0,0,0,0,10.387Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="kw" clip-path="url(#clip-path)">
+    <path id="Fill_491" data-name="Fill 491" d="M0,7.189H35.285V0H0Z" transform="translate(-2.623 -0.735)" fill="#00793d"/>
+    <path id="Fill_493" data-name="Fill 493" d="M0,7.188H35.285V0H0Z" transform="translate(-2.623 6.454)" fill="#fff"/>
+    <path id="Fill_494" data-name="Fill 494" d="M0,7.189H35.285V0H0Z" transform="translate(-2.623 13.642)" fill="#cd1225"/>
+    <path id="Fill_495" data-name="Fill 495" d="M0,0,8.815,7.2v7.226L0,21.57Z" transform="translate(-2.623 -0.73)"/>
+  </g>
+</svg>

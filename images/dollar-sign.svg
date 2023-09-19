@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="28" viewBox="0 0 16 28">
+  <g id="dollar-sign" transform="translate(1 1)">
+    <path id="Path" d="M.5,0V26" transform="translate(7)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path-2" data-name="Path" d="M12.833,0H4.083A4.169,4.169,0,0,0,0,4.25,4.169,4.169,0,0,0,4.083,8.5H9.917A4.169,4.169,0,0,1,14,12.75,4.169,4.169,0,0,1,9.917,17H0" transform="translate(0 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

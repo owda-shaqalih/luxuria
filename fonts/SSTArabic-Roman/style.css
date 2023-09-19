@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "SSTArabic-Roman";
+  src: url("./fonts/SSTArabicRoman.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/SSTArabicRoman.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/SSTArabicRoman.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/SSTArabicRoman.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/SSTArabicRoman.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/SSTArabicRoman.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/SSTArabicRoman.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="199" viewBox="0 0 405 199">
+  <g id="effects" transform="translate(183)">
+    <path id="Path" d="M5.856.007,6,0A1.5,1.5,0,0,1,7.493,1.356L7.5,1.5v3h3a1.5,1.5,0,0,1,1.493,1.356L12,6a1.5,1.5,0,0,1-1.356,1.493L10.5,7.5h-3v3a1.5,1.5,0,0,1-1.356,1.493L6,12a1.5,1.5,0,0,1-1.493-1.356L4.5,10.5v-3h-3A1.5,1.5,0,0,1,.007,6.144L0,6A1.5,1.5,0,0,1,1.356,4.507L1.5,4.5h3v-3A1.5,1.5,0,0,1,5.856.007L6,0Z" transform="translate(-106.5 8)" fill="#eec200"/>
+    <path id="Path-2" data-name="Path" d="M5.856.007,6,0A1.5,1.5,0,0,1,7.493,1.356L7.5,1.5v3h3a1.5,1.5,0,0,1,1.493,1.356L12,6a1.5,1.5,0,0,1-1.356,1.493L10.5,7.5h-3v3a1.5,1.5,0,0,1-1.356,1.493L6,12a1.5,1.5,0,0,1-1.493-1.356L4.5,10.5v-3h-3A1.5,1.5,0,0,1,.007,6.144L0,6A1.5,1.5,0,0,1,1.356,4.507L1.5,4.5h3v-3A1.5,1.5,0,0,1,5.856.007L6,0Z" transform="translate(163.5 90)" fill="#f49342"/>
+    <path id="Path-3" data-name="Path" d="M5.856.007,6,0A1.5,1.5,0,0,1,7.493,1.356L7.5,1.5v3h3a1.5,1.5,0,0,1,1.493,1.356L12,6a1.5,1.5,0,0,1-1.356,1.493L10.5,7.5h-3v3a1.5,1.5,0,0,1-1.356,1.493L6,12a1.5,1.5,0,0,1-1.493-1.356L4.5,10.5v-3h-3A1.5,1.5,0,0,1,.007,6.144L0,6A1.5,1.5,0,0,1,1.356,4.507L1.5,4.5h3v-3A1.5,1.5,0,0,1,5.856.007L6,0Z" transform="translate(-136 115)" fill="#171717"/>
+    <path id="Path-4" data-name="Path" d="M5.856.007,6,0A1.5,1.5,0,0,1,7.493,1.356L7.5,1.5v3h3a1.5,1.5,0,0,1,1.493,1.356L12,6a1.5,1.5,0,0,1-1.356,1.493L10.5,7.5h-3v3a1.5,1.5,0,0,1-1.356,1.493L6,12a1.5,1.5,0,0,1-1.493-1.356L4.5,10.5v-3h-3A1.5,1.5,0,0,1,.007,6.144L0,6A1.5,1.5,0,0,1,1.356,4.507L1.5,4.5h3v-3A1.5,1.5,0,0,1,5.856.007L6,0Z" transform="translate(179.5 28)" fill="#171717"/>
+    <path id="Path-5" data-name="Path" d="M5.856.007,6,0A1.5,1.5,0,0,1,7.493,1.356L7.5,1.5v3h3a1.5,1.5,0,0,1,1.493,1.356L12,6a1.5,1.5,0,0,1-1.356,1.493L10.5,7.5h-3v3a1.5,1.5,0,0,1-1.356,1.493L6,12a1.5,1.5,0,0,1-1.493-1.356L4.5,10.5v-3h-3A1.5,1.5,0,0,1,.007,6.144L0,6A1.5,1.5,0,0,1,1.356,4.507L1.5,4.5h3v-3A1.5,1.5,0,0,1,5.856.007L6,0Z" transform="translate(-183 178)" fill="#eec200"/>
+    <path id="Oval" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" transform="translate(-141 51)" fill="#e3d0ff"/>
+    <path id="Oval-2" data-name="Oval" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" transform="translate(-156 190)" fill="#fa9a88"/>
+    <path id="Oval-3" data-name="Oval" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" transform="translate(100.5)" fill="#47c1bf"/>
+    <path id="Oval-4" data-name="Oval" d="M0,4.5A4.5,4.5,0,1,1,4.5,9,4.5,4.5,0,0,1,0,4.5Z" transform="translate(200.5 71)" fill="#eec200"/>
+    <circle id="Oval-5" data-name="Oval" cx="3" cy="3" r="3" transform="translate(156 39.5)" fill="#fa9a88"/>
+    <circle id="Oval-6" data-name="Oval" cx="3" cy="3" r="3" transform="translate(-128 85)" fill="#bbe5b3"/>
+    <circle id="Oval-7" data-name="Oval" cx="3" cy="3" r="3" transform="translate(216 133)" fill="#bbe5b3"/>
+    <circle id="Oval-8" data-name="Oval" cx="3" cy="3" r="3" transform="translate(-167 60)" fill="#00848e"/>
+    <circle id="Oval-9" data-name="Oval" cx="3" cy="3" r="3" transform="translate(184 157)" fill="#00848e"/>
+    <circle id="Oval-10" data-name="Oval" cx="3" cy="3" r="3" transform="translate(-141 14.5)" fill="#fa9a88"/>
+    <circle id="Oval-11" data-name="Oval" cx="3" cy="3" r="3" transform="translate(178 123.5)" fill="#b3bcf5"/>
+    <circle id="Oval-12" data-name="Oval" cx="3" cy="3" r="3" transform="translate(145 7.5)" fill="#b4e0fa"/>
+    <circle id="Oval-13" data-name="Oval" cx="3" cy="3" r="3" transform="translate(-138 159)" fill="#b4e0fa"/>
+    <circle id="Oval-14" data-name="Oval" cx="3" cy="3" r="3" transform="translate(-162 121)" fill="#eec200"/>
+  </g>
+</svg>
